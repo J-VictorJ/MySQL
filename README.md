@@ -1,4 +1,4 @@
-Eu completei o curso da W3Schools, organizando as aulas na mesma ordem do site. O conteúdo acabou tendo poucos comentários, uma vez que o SQL, por si só, não é tão complexo quanto uma linguagem de programação. Esta é a razão pela qual não está totalmente comentado.
+Este curso é da W3Schools, e não foi a minha primeira experiência com o MySQL. Já o havia estudado bastante anteriormente, mas decidi revisá-lo na faculdade e realizar este curso para complementar meus estudos e aprofundar ainda mais meu conhecimento no MySQL.
 
 # SQL
 
@@ -77,7 +77,7 @@ Tópicos relacionados a usar MySQL com Python:
 
 # English
 
-I completed the W3Schools course, organizing the lessons in the same order as on the website. The content ended up with few comments since SQL itself is not as complex as a programming language. Therefore, it's not fully commented.
+This course is from W3Schools, and it wasn't my first time with MySQL. I had studied it extensively before, but I revisited it in college and took this course to complement my studies and delve even deeper into MySQL.
 
 - **SQL:** Introduction to SQL.
 - **SELECT:** Command to retrieve data from a database.
