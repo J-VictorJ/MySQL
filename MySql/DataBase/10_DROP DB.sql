@@ -1,0 +1,4 @@
+CREATE DATABASE TobeDropped;
+-- Syntax
+-- DROP DATABASE DBName;
+DROP DATABASE TobeDropped;
